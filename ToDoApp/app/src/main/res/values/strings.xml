@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="ToDoHint">Create a new To Do item</string>
+    <string name="AddToDoDescription">Create a new To Do item</string>
+</resources>
